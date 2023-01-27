@@ -1,0 +1,11 @@
+#include<iostream.h>
+using namespace std;
+
+void main()
+{
+int a,b,sum;
+a=12;
+b=40;
+sum=a+b;
+cout>>"The total is:"sum;
+}
